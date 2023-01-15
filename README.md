@@ -2,7 +2,7 @@
 
 I'm a developer and test automation specialist. Currently building automation tools and frameworks. This is a work in progress so stay tuned! 
 
-![Charles's github stats](https://github-readme-stats.vercel.app/api?username=charlesghost&show_icons=true&theme=radical)
+
 
 <!--
 **charlesghost/charlesghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
